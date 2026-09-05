@@ -1,11 +1,6 @@
 
 [
-  {
-    "licence": "silver",
-    "expire": "2027/03/02",
-    "max_devices": "all",
-    "allowed_devices": [2cc1a7bf9e02c656]
-  },
+  
   {
     "licence": "RAiDER",
     "expire": "2027/03/02",
@@ -36,10 +31,11 @@
     "max_devices": "all",
     "allowed_devices": [03f243393d326c41]
   },
+
 {
-    "licence": "animalsator",
+    "licence": "diskanekt",
     "expire": "2027/03/02",
-    "max_devices": "all",
+    "max_devices": "ahmad",
     "allowed_devices": [776053569dff729e]
   }
 
