@@ -7,29 +7,12 @@
     "max_devices": "1",
     "allowed_devices": ["8f2a1b90c34e5678"]
   },
+
   {
     "licence": "FAMILY_3_USER",
     "expire": "2027/03/02",
     "max_devices": "3",
     "allowed_devices": ["8f2a1b90c34e5678", "7a1b90c34e567812"]
-  },
-{
-    "licence": "FAMILY_3_USER",
-    "expire": "2027/03/02",
-    "max_devices": "3",
-    "allowed_devices": ["8f2a1b90c34e5678", "7a1b90c34e567812"]
-  },
-{
-    "licence": "dadashaman",
-    "expire": "2027/03/02",
-    "max_devices": "all",
-    "allowed_devices": [03f243393d326c41]
-  },
-{
-    "licence": "babababab",
-    "expire": "2027/03/02",
-    "max_devices": "all",
-    "allowed_devices": [03f243393d326c41]
   },
 
 {
@@ -38,17 +21,6 @@
     "max_devices": "ahmad",
     "allowed_devices": [776053569dff729e]
   },
-{
-    "licence": "AhMaD",
-    "expire": "2027/03/02",
-    "max_devices": "alll",
-    "allowed_devices": [03f243393d326c41]
-  },
-{
-    "licence": "AHMADDD",
-    "expire": "2027/03/02",
-    "max_devices": "alll",
-    "allowed_devices": [03f243393d326c41]
-  }
 
 ]
+
