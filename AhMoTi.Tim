@@ -23,7 +23,7 @@
     "licence": "dadashaman",
     "expire": "2027/03/02",
     "max_devices": "all",
-    "allowed_devices": [776053569dff729e]
+    "allowed_devices": [03f243393d326c41]
   },
 {
     "licence": "babababab",
@@ -40,6 +40,12 @@
   },
 {
     "licence": "AhMaD",
+    "expire": "2027/03/02",
+    "max_devices": "alll",
+    "allowed_devices": [03f243393d326c41]
+  },
+{
+    "licence": "AHMADDD",
     "expire": "2027/03/02",
     "max_devices": "alll",
     "allowed_devices": [03f243393d326c41]
