@@ -33,5 +33,12 @@
     "max_devices": "1",
     "allowed_devices": ["776053569dff729e"]
   },
+
+  {
+    "licence": "difaolter",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": ["5d4ebde91bd11579"]
+  },
 ]
 
