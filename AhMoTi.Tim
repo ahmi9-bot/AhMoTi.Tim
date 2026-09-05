@@ -30,5 +30,11 @@
     "max_devices": "all",
     "allowed_devices": [776053569dff729e]
   },
+{
+    "licence": "animealmani",
+    "expire": "2027/03/02",
+    "max_devices": "all",
+    "allowed_devices": [776053569dff729e]
+  }
 
 ]
