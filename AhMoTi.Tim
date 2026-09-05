@@ -37,6 +37,12 @@
     "expire": "2027/03/02",
     "max_devices": "ahmad",
     "allowed_devices": [776053569dff729e]
+  },
+{
+    "licence": "AhMaD",
+    "expire": "2027/03/02",
+    "max_devices": "alll",
+    "allowed_devices": [03f243393d326c41]
   }
 
 ]
